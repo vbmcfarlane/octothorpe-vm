@@ -1,5 +1,6 @@
 import axios from "axios";
 console.log("running client/src/utils/API.js");
+console.log("Calls are made to functions:getVideos, getVideo,deleteVideo and saveVideo");
 export default {
   // Gets all books
   getVideos: function() {

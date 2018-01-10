@@ -21,12 +21,12 @@ class Detail extends Component {
       <Container fluid>
         <Row>
           <Col size="md-12">
-            <Jumbotron>
+            
               <h3>
                 {this.state.video.title} 
               </h3>
               <h4>{this.state.video.description} </h4>
-            </Jumbotron>
+             
           </Col>
         </Row>
         <Row>

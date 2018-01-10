@@ -1,4 +1,6 @@
-console.log("Running VideosController.js");
+console.log("Running VideosController.js -- MongoDB functions are run");
+console.log("FindAll, findByID, create, update, remove ");
+
 const db = require("../models");
 // Defining methods for the VideosController
 module.exports = {

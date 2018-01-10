@@ -2,6 +2,7 @@ import React from "react";
 import { Col, Row, Container } from "../../components/Grid";
 import Jumbotron from "../../components/Jumbotron";
 console.log("running client/src/pages/NoMatch/NoMatch.js");
+console.log(" if false prints: <h1>404 Page Not Found</h1>")
 const NoMatch = () =>
   <Container fluid>
     <Row>

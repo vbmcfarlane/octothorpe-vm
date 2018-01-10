@@ -1,4 +1,6 @@
 console.log("Running routes/index.js");
+console.log("router.use('/api', apiRoutes");
+ 
 const path = require("path");
 const router = require("express").Router();
 const apiRoutes = require("./api");

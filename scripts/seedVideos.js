@@ -10,26 +10,13 @@ mongoose.connect(
   }
 );
 const videoSeed = [
-{
-  "videoId": "GaeZgIHhXRM",
-  "title": "07 12 2017 Activity My Bio Solved",
-  "description": "Creating a student Bio HTML page with css styling",
-  "url": "https://www.youtube.com/embed/KxQFJd7bQnc",
-  "img": "https://i.ytimg.com/vi/MhkGQAoc7bc/default.jpg"
-},
+
 {
   "videoId": "KjKQ_mpwebo",
   "title": "08 16 describes JSON format and usage",
    "description": "Creating a student Bio HTML page with css styling",
   "url": "https://www.youtube.com/embed/KjKQ_mpwebo",
   "img": "https://i.ytimg.com/vi/81G9Pr7n2NE/hqdefault.jpg"
-},
-{
-  "videoId": "hGyTfi9fldg",
-  "title": "09 18 2017 MERN",
-   "description": "Learning Mongo, Express, React and Nodejs",
-  "url": "https://www.youtube.com/embed/hGyTfi9fldg",
-  "img": "https://i.ytimg.com/vi/hGyTfi9fldg/hqdefault.jpg"
 },
 {
   "videoId": "CHClXrjzsPA",
